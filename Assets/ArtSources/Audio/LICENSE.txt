@@ -1,0 +1,11 @@
+8-Bit Battle Loop — Theodore Kerr (Wolfgang_)
+Source: https://opengameart.org/content/8-bit-battle-loop
+Original: https://opengameart.org/sites/default/files/8BitBattleLoop_0.ogg
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The source author publishes this asset under CC0 and states that credit is optional.
+The game voluntarily credits Theodore Kerr, the name requested by the author.
+The original OGG is included with the Unity project. The playback WAV preserves
+all decoded musical frames and is imported as preloaded PCM for continuous looping.
+See audio-provenance-v6.json for sample counts, checksums and preparation details.

@@ -1,0 +1,28 @@
+{
+  "version": 6,
+  "generatedUtc": "2026-10-02T18:43:38.017392+00:00",
+  "title": "8-Bit Battle Loop",
+  "authorAccount": "Wolfgang_",
+  "voluntaryCredit": "Theodore Kerr",
+  "sourcePage": "https://opengameart.org/content/8-bit-battle-loop",
+  "originalDownload": "https://opengameart.org/sites/default/files/8BitBattleLoop_0.ogg",
+  "license": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "originalSha256": "3ffedb0875b311605321ce00def96d8416c4668e9331ea4ee4abb6430d74ab8b",
+  "preparedSha256": "8d6ffd80a3d73ad419d22c302238a794c186ef657eb55a86125922b498d73702",
+  "preparation": "Unity6.5 imported original OGG as PCM/DecompressOnLoad. LoopMusicImporter extracted all AudioClip frames with GetData and wrote PCM16 WAV. No time trim, pitch/time stretch, crossfade, padding, or added samples. Preserve the full1599-frame60Hz musical cycle.",
+  "frames": 1175265,
+  "sampleRate": 44100,
+  "channels": 2,
+  "sampleBytes": 2,
+  "durationSeconds": 26.65,
+  "peak": 0.626678466796875,
+  "rms": 0.10536894921478725,
+  "wrapSampleDifferencePerChannel": [
+    0.0,
+    0.0
+  ],
+  "firstSignalFrameAtOneLsbThreshold": 657,
+  "lastSignalFrameAtOneLsbThreshold": 1174828,
+  "limitations": "A zero sample discontinuity is waveform evidence, not a subjective listening review or a complete musical seam guarantee on every hardware device."
+}

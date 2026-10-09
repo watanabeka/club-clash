@@ -1,0 +1,5 @@
+{
+  "name": "ClubAds.EditMode",
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
